@@ -49,6 +49,6 @@ Run
 ```
 
 You should see the following output:
-```bash
+```txt
 Hello World!
 ```
