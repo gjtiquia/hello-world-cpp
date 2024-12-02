@@ -1,6 +1,6 @@
 # Hello World C++
 
-A short documentation on how to setup C++ properly on Linux.
+A short documentation on how to setup, compile and run C++ properly on Linux.
 
 ## Prerequisites
 
@@ -34,9 +34,9 @@ chmod +x build.sh
 
 ## Build - Using g++
 
-The bash script is writted because i dun wanna type so many characters everytime i wanna build lol. Also prevents typos. I also dun needa remember all the commands if i just needa remember `bash build.sh`
+The bash script is written because i dun wanna type so many characters everytime i wanna build lol. Also prevents typos. I also dun needa remember all the commands if i just needa remember `bash build.sh`. Also allows the build step to change while i just needa remember one command.
 
-But yeah, u can just build directly using
+But yeah, at least at this stage u can just build directly using
 ```bash
 g++ main.cpp -o main
 ```
